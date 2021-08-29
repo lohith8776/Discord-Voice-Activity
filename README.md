@@ -29,7 +29,7 @@ Run The Bot with `npm start`
 
 Support Server - [Click Here](https://discord.gg/QDGGs7J5DP)
 
-My Discord - [Abdul#5464](https://discord.com/users/737553088218529813)
+My Discord - [Lonelyᴰᵉᵛ#6166](https://discord.com/users/556727961739460629)
 
 
 # About
