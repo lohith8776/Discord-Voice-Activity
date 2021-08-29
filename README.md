@@ -1,5 +1,5 @@
 # Discord Voice Activity
-A Discord voice Activity bot.Easy To Host.
+A Discord Voice Activity bot.Easy To Host.
 
 You Can Easily Fork This Code And Edit The Config and Host.
 
