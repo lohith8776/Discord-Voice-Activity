@@ -1,0 +1,16 @@
+{
+  "name": "discord-voice-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LonelyDev#6166",
+  "license": "ISC",
+  "dependencies": {
+    "discord-slash-commands": "https://github.com/ShadeDevelopment/discord-slash-commands",
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1"
+  }
+}
