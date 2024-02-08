@@ -1,9 +1,9 @@
 {
-    "Token": "Your_Bot_Token",
+    "Token": "Your token",
     "Embed_color": "#00ffff",
-    "YT_ID": "755600276941176913",
-    "PN_ID": "755827207812677713",
-    "BIO_ID": "773336526917861400",
-    "FIO_ID": "814288819477020702",
-    "CHESS_ID": "832012586023256104"
+    "YT_ID": "Your-ID",
+    "PN_ID": "Your-ID",
+    "BIO_ID": "Your-ID",
+    "FIO_ID": "Your-ID",
+    "CHESS_ID": "Your-ID"
 }
